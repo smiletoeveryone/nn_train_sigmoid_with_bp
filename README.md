@@ -1,4 +1,4 @@
-# nn_train_sigmoid
+# in python to code a nn with backpropagation
 
 steps:
 
@@ -10,7 +10,7 @@ iii.  Back Propagate Error.
 
 vi. Train Network.
 
-v. Predict.
+
 
 # neuron activation
 activation = sum(weight_i * input_i) + bias
